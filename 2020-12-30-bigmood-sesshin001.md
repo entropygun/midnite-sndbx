@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 cover: 'assets/images/bigmood-sesshin001_entropygun.png'
@@ -9,6 +10,11 @@ subclass: 'post tag-Discord'
 logo: 'assets/images/favicon.png'
 author: entropygun
 categories: sesshins
+---
+--->  
+
+---
+layout: default
 ---
   
     
