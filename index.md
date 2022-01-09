@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to first page](./firstpage.html).
 
-[link to bigmood-sesshin001](./2020-12-30-bigmood-sesshin001.html)
+[link to bigmood-sesshin001](./2020-12-30-bigmood-sesshin001.md)
 
 There should be whitespace between paragraphs.
 
